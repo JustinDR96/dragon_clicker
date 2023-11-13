@@ -22,8 +22,6 @@ Ce projet est construit en utilisant les technologies suivantes :
 ## Développement
 
 - npm install
-- npm install sass
-- npm install plugin-rollup-copy
 - npm run dev
 
 Copyright - 10/11/2023
